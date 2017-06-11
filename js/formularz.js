@@ -21,8 +21,3 @@ pobierzImie.addEventListener('click',function(event){
 
 
 
-
-
-/*Następnie podczas wysyłania formularza zablokuj jego domyślne
-działanie. Pobierz wartości obydwu pól formularza (czyli fname i
-lname) i wyświetl jej w konsoli.*/
